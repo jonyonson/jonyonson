@@ -1,7 +1,6 @@
 ### Hi, I'm Jonathan 👋
 
 - 🔭 I’m actively looking for a role as a full stack or front-end developer in which I can solve interesting problems and continue to grow as a developer.
-- 🌱 I’m currently learning TypeScript and recently converted [Snapstock's front-end](https://github.com/jonyonson/snapstock-fe) to TypeScript. I need to narrow some types, but I am definitely seeing an improved development experience with less errors.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-craig-taylor/) | [jonathantaylor.io](https://jonathantaylor.io])| [Twitter](https://twitter.com/jonyonson)
 
 <!--
