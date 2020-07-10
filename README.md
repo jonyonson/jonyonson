@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Jonathan 👋
+
+- 🔭 I’m currently looking for a role as a full stack or front-end developer where I will get to work with nice people and solve interesting problems.
+- 🌱 I’m currently learning TypeScript and recently converted ([Snapstock's front-end](https://github.com/jonyonson/snapstock-fe)) to TypeScript. I need to narrow some types, but I am definitely seeing an improved dev experience with less errors.
 
 <!--
 **jonyonson/jonyonson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
