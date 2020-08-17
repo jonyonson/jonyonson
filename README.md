@@ -1,7 +1,5 @@
 ### Hi, I'm Jonathan 👋
 
-🔭 &nbsp;I’m actively looking for a role as a full stack or front-end developer in which I can solve interesting problems and continue to grow as a developer.
-
 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-craig-taylor/) | [Blog](https://jonathantaylor.io) | [Twitter](https://twitter.com/jonyonson)
 
 <!--
