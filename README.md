@@ -1,4 +1,4 @@
-### Hi, I'm Jonathan 👋
+### Hey, I'm Jonathan 👋
 
 [LinkedIn](https://www.linkedin.com/in/jonathan-craig-taylor/) | [Website](https://jonathantaylor.io) | [Twitter](https://twitter.com/jonyonson)
 
