@@ -1,7 +1,7 @@
 ### Hey, I'm Jonathan 👋
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-craig-taylor/)
 - Find out more [about me](https://jonathantaylor.io)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-craig-taylor/)
 - Some day I may start [tweeting](https://twitter.com/jonyonson) again
 
 <!--
