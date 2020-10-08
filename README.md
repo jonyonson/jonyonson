@@ -1,5 +1,5 @@
 ### Hey, I'm Jonathan 👋
-I am a front-end developer in Nashville, TN.
+I'm a front-end developer in Nashville, TN.
 
 - Find out more [about me](https://jonathantaylor.io).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-craig-taylor/).
