@@ -1,6 +1,8 @@
 ### Hey, I'm Jonathan 👋
 
-[LinkedIn](https://www.linkedin.com/in/jonathan-craig-taylor/) | [Website](https://jonathantaylor.io) | [Twitter](https://twitter.com/jonyonson)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-craig-taylor/)
+- Find out more [about me](https://jonathantaylor.io)
+- Some day I may start [tweeting](https://twitter.com/jonyonson) again
 
 <!--
 **jonyonson/jonyonson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
