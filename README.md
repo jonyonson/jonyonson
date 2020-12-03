@@ -3,7 +3,7 @@ I'm a front-end developer at [Ramsey Solutions](https://daveramsey.com) in Frank
 
 - Find out more [about me](https://jonathantaylor.io).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-craig-taylor/).
-- Follow me on [Twitter](https://twitter.com/jonyonson) again.
+- Follow me on [Twitter](https://twitter.com/jonyonson).
 
 <!--
 **jonyonson/jonyonson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
