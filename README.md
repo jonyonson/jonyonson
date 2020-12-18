@@ -1,5 +1,5 @@
 ### Hey, I'm Jonathan 👋
-I'm a front-end developer at [Ramsey Solutions](https://daveramsey.com) in Franklin (Nashville), TN.
+I'm a front-end developer at [Ramsey Solutions](https://daveramsey.com) in Franklin, TN (Nashville area).
 
 - 💻 &nbsp;Find out more [about me](https://jonathantaylor.io).
 - 💼 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-craig-taylor/).
