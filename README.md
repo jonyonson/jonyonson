@@ -1,9 +1,5 @@
 ### Hey, I'm Jonathan 👋
-I'm a developer at [Ramsey Solutions](https://ramseysolutions.com) in Franklin, TN (Nashville).
-
-- 💻 &nbsp;Find out more [about me](https://jonathantaylor.io).
-- 💼 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-craig-taylor/).
-- 🐦 &nbsp;Follow me on [Twitter](https://twitter.com/jonyonson).
+I'm a developer at [Ramsey Solutions](https://ramseysolutions.com) in Franklin, TN.
 
 <!--
 **jonyonson/jonyonson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
